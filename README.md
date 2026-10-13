@@ -6,10 +6,11 @@
 
 更新日期：2026-10-13
 
-当前正式起点：第 1 讲 Course Overview: What Is an Agent?。此前问答计为预习，完整讲次尚待验收。
+当前进度：第 1 讲 Course Overview: What Is an Agent? 学习中，已开始开场讨论。完整录播、指定阅读和整讲验收仍待记录；此前问答计为预习。
 
 | 主题 | 状态 | 记录 |
 | --- | --- | --- |
+| 第 1 讲：能力、授权与行动后果 | 开场讨论进行中 | [本讲笔记](notes/lecture-01.md) |
 | 智能体的行动—观察循环 | 预习已讨论，完整讲次待验收 | [笔记](notes/01-agent-loop-and-context.md) |
 | 工具调用与框架职责 | 预习已讨论，完整讲次待验收 | [笔记](notes/01-agent-loop-and-context.md) |
 | 长上下文与渐进式披露 | 预习已讨论，完整讲次待验收 | [笔记](notes/01-agent-loop-and-context.md) |
