@@ -21,7 +21,7 @@
 
 | 讲次 | 主题 | 状态 |
 | --- | --- | --- |
-| 1 | Course Overview: What Is an Agent? · 课程概览与智能体定义 | 学习中：观察与状态已做理解检查 |
+| 1 | Course Overview: What Is an Agent? · 课程概览与智能体定义 | 学习中：工具调用 ID 已做初步理解检查 |
 | 2 | Tool Use · 工具调用 | 待完成整讲 |
 | 3 | Context Management for Long-Context Agents · 上下文管理 | 待完成整讲 |
 | 4 | Skills and Memory · 技能与记忆 | 待学习 |
