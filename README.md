@@ -6,7 +6,7 @@
 
 更新日期：2026-10-21
 
-当前进度：第 1 讲 slides 问答已复盘，指定阅读 Toolformer 已完成五题首轮作答与[统一复盘](notes/toolformer-review.md)，当前待完成两道集中补答。随后继续 ReAct → Mini-SWE-Agent。完整录播与完整阅读仍待确认，整讲尚未验收；继续采用集中提问、统一反馈与补缺的方式。
+当前进度：第 1 讲 slides 问答已复盘，Toolformer 首轮阅读与公式释疑已完成[本轮讲解](notes/toolformer-review.md)，独立应用仍待验证。按顺序进入 [ReAct 集中阅读题组](notes/react-questions.md)，之后继续 Mini-SWE-Agent。完整录播与完整阅读仍待确认，整讲尚未验收；继续采用集中提问、统一反馈与补缺的方式。
 
 | 主题 | 状态 | 记录 |
 | --- | --- | --- |
