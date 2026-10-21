@@ -6,7 +6,7 @@
 
 更新日期：2026-10-21
 
-当前进度：第 1 讲 Course Overview: What Is an Agent? 的 slides 综合题与集中补答已完成[统一复盘](notes/lecture-01-review.md)。接下来按顺序完成指定阅读 Toolformer → ReAct → Mini-SWE-Agent，已准备 [Toolformer 阅读题组](notes/toolformer-questions.md)。完整录播与阅读尚待确认，整讲仍未验收。继续采用集中提问、统一反馈与补缺的学习方式。
+当前进度：第 1 讲 slides 问答已复盘，指定阅读 Toolformer 已完成五题首轮作答与[统一复盘](notes/toolformer-review.md)，当前待完成两道集中补答。随后继续 ReAct → Mini-SWE-Agent。完整录播与完整阅读仍待确认，整讲尚未验收；继续采用集中提问、统一反馈与补缺的方式。
 
 | 主题 | 状态 | 记录 |
 | --- | --- | --- |

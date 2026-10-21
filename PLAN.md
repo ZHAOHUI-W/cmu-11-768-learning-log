@@ -4,7 +4,7 @@
 
 按课程公布的讲次顺序学习，每讲都完成课程材料、理解检查和对应练习。已学习过 CS336 的内容仍按本课程的讲法学习，用已有基础帮助理解。前三周是集中学习阶段，后续讲次与课程项目继续保留在计划中。
 
-此前的智能体循环与上下文问答记为预习。目前第 1 讲 slides 综合题与集中补答已复盘，进入指定阅读 Toolformer → ReAct → Mini-SWE-Agent。完整录播、阅读与整讲验收仍待确认。
+此前的智能体循环与上下文问答记为预习。目前第 1 讲 slides 问答已复盘，指定阅读 Toolformer 首轮作答已复盘、待集中补答，之后继续 ReAct → Mini-SWE-Agent。完整录播、阅读与整讲验收仍待确认。
 
 ## 学习方式（2026-10-21 调整）
 
@@ -25,7 +25,7 @@
 
 | 讲次 | 主题 | 状态 |
 | --- | --- | --- |
-| 1 | Course Overview: What Is an Agent? · 课程概览与智能体定义 | Slides 问答已复盘；Toolformer 阅读题组待答，整讲待验收 |
+| 1 | Course Overview: What Is an Agent? · 课程概览与智能体定义 | Slides 与 Toolformer 首轮已复盘；Toolformer 补答、其余阅读与验收待完成 |
 | 2 | Tool Use · 工具调用 | 待完成整讲 |
 | 3 | Context Management for Long-Context Agents · 上下文管理 | 待完成整讲 |
 | 4 | Skills and Memory · 技能与记忆 | 待学习 |
